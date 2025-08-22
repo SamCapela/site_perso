@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@astrojs/tailwind": "^6.0.2"
+  }
+}
